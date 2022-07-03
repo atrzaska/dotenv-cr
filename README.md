@@ -1,4 +1,4 @@
-# Dotenv
+# Dotenv-cr
 
 Dotenv is a application to load your dotenv files from current working directory into environment and provide environment variables to other programs.
 
