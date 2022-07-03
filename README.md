@@ -52,6 +52,10 @@ You can also create some aliases to avoid typing dotenv every time.
     alias be='dotenv bundle exec'
     alias dot=dotenv
 
+## Docker setup
+
+the prebuilt image is published at https://hub.docker.com/r/andrzejtrzaska/dotenv
+
 ## Environment integrations
 
 Dotenv uses `RAILS_ENV` **or** `ENV` environment variable to load correct environment file.
